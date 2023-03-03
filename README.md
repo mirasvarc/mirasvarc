@@ -1,16 +1,18 @@
-### Hi there 👋
+![Header](./github-header-image.png)
 
-<!--
-**mirasvarc/mirasvarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About me
+- 👨‍💻 Full stack web developer in digital agency
+- 🎓 Student of Sofware engineering (Master's degree)
+- 📍 Based in Brno, Czech republic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Tech stack & skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,laravel,html,css,tailwind,php,mysql,postgresql,bootstrap,git,latex)]()
+
+
+### Contacts
+Email: mirasvarc1@gmail.com
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miroslavsvarc/)
