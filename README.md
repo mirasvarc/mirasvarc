@@ -3,8 +3,8 @@
 
 ### About me
 - 👨‍💻 Full stack web developer in digital agency
-- 🎓 Student of Sofware engineering (Master's degree)
-- 📍 Based in Brno, Czech republic
+- 🌍 From Czech Republic
+- 📍 Currently working remote from Spain
 
 
 
