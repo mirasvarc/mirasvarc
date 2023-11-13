@@ -2,7 +2,7 @@
 
 
 ### About me
-- 👨‍💻 Full stack web developer in digital agency
+- 👨‍💻 Software engineer
 - 🌍 From Czech Republic
 - 📍 Currently working remote from Spain
 
