@@ -4,7 +4,6 @@
 ### About me
 - 👨‍💻 Software engineer
 - 🌍 From Czech Republic
-- 📍 Currently working remote from Spain
 
 
 
